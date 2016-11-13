@@ -1,0 +1,38 @@
+*************************************************************
+FileName = itoP.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Overlay
+      File : itoP.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : itoP.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : itoP.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D13
+*************************************************************
+
